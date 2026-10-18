@@ -1,0 +1,12 @@
+.venv/
+build/
+dist/
+release/
+__pycache__/
+*.pyc
+*.spec
+bench/jobs/
+bench/heartbeat.json
+tests/fixtures/private
+assets/app.ico
+.DS_Store
